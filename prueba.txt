@@ -1,3 +1,5 @@
 Hola soy felipe y este es el segundo intento de comandos de git 
 
 saludos y  que la buena
+
+Este es el primer cambio despues de guardar y crear el archivo git
